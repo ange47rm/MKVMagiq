@@ -42,7 +42,7 @@ pip install tqdm
 ### Step 1: Download or Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/mkvmagiq.git
+git clone https://github.com/ange47rm/MKVMagiq
 cd mkvmagiq
 ```
 
